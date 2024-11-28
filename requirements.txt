@@ -1,0 +1,5 @@
+pandas
+folium
+routingpy
+numpy
+frigidum
